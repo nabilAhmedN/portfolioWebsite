@@ -8,14 +8,10 @@ import "swiper/css/pagination";
 
 const Project2 = () => {
     const images = [
-        { image: "https://i.ibb.co/9sw8Hkt/image.png" },
-        { image: "https://i.ibb.co/y0qshk5/image.png" },
-        {
-            image: "https://i.ibb.co/y0gXfD2/image.png",
-        },
-        {
-            image: "https://i.ibb.co/Jcd8pK4/image.png",
-        },
+        { image: "https://i.ibb.co/sm7GDkn/image.png" },
+        { image: "https://i.ibb.co/3czVChw/image.png" },
+        { image: "https://i.ibb.co/t2s6xnJ/image.png" },
+        { image: "https://i.ibb.co/fxhrMvR/image.png" },
     ];
     return (
         <section className="background-pattern bg-orange-50 h-full">
@@ -80,13 +76,13 @@ const Project2 = () => {
                     Project Description
                 </h3>
                 <div>
-                    &#x2022;Shutter up is a single photographer hire website{" "}
+                    &#x2022;Skill Edge is a online learning platforms
                     <br />
                     &#x2022;It is build by ReactJs
                     <br />
                     &#x2022; In this project have private route <br />
-                    &#x2022;This website accept the email password login, google
-                    login <br />
+                    &#x2022;This website accept the email password login, github
+                    login, google login <br />
                     &#x2022;Site is responsive for large, mobile device
                 </div>
             </div>
@@ -95,16 +91,15 @@ const Project2 = () => {
                 <h3 className="text-3xl font-semibold text-center pb-2">
                     Technologies Used
                 </h3>
-                <div className="flex flex-wrap gap-6 justify-center mx-2">
+                <div className="flex flex-wrap gap-6 justify-center mx-3 mt-3 text-lg font-semibold">
                     <div>React.js</div>
-                    <div>Tailwind CSS</div>
-                    <div>DaisyUi</div>
+                    <div>React Boostrap</div>
                     <div>Firebase</div>
+                    <div>react-to-print</div>
                     <div>Node.js</div>
                     <div>MondoDb</div>
                     <div>Express.js</div>
-                    <div> React Router Dom</div>
-                    <div>React-Toastify</div>
+                    <div>React Router Dom</div>
                 </div>
             </div>
         </section>
