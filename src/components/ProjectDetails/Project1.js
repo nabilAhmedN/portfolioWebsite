@@ -81,14 +81,14 @@ const Project1 = () => {
                     Project Description
                 </h3>
                 <div>
-                    &#x2022;Shutter up is a single photographer hire website{" "}
+                    &#x2022; Shutter up is a single photographer hire website{" "}
                     <br />
-                    &#x2022;It is build by ReactJs
+                    &#x2022; It is build by ReactJs
                     <br />
                     &#x2022; In this project have private route <br />
-                    &#x2022;This website accept the email password login, google
+                    &#x2022; This website accept the email password login, google
                     login <br />
-                    &#x2022;Site is responsive for large, mobile device
+                    &#x2022; Site is responsive for large, mobile device
                 </div>
             </div>
 

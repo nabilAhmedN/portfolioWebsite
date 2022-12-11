@@ -76,14 +76,16 @@ const Project2 = () => {
                     Project Description
                 </h3>
                 <div>
-                    &#x2022;Skill Edge is a online learning platforms
+                    &#x2022; Skill Edge is a online learning platforms
                     <br />
-                    &#x2022;It is build by ReactJs
+                    &#x2022; It is build by ReactJs
                     <br />
                     &#x2022; In this project have private route <br />
-                    &#x2022;This website accept the email password login, github
+                    &#x2022; Downloading PDF has been implemented by
+                    react-to-print <br />
+                    &#x2022; This website accept the email password login, github
                     login, google login <br />
-                    &#x2022;Site is responsive for large, mobile device
+                    &#x2022; Site is responsive for large, mobile device
                 </div>
             </div>
 
