@@ -8,16 +8,13 @@ import "swiper/css/pagination";
 
 const Project1 = () => {
     const images = [
-        { image: "https://i.ibb.co/drmmSh9/Regame1.png" },
-        { image: "https://i.ibb.co/7KFrbHh/Regame2.png" },
+        { image: "https://i.ibb.co/9sw8Hkt/image.png" },
+        { image: "https://i.ibb.co/y0qshk5/image.png" },
         {
-            image: "https://i.ibb.co/GVh2qS7/Regame3.png",
+            image: "https://i.ibb.co/y0gXfD2/image.png",
         },
         {
-            image: "https://i.ibb.co/g4Szpjn/Regame4.png",
-        },
-        {
-            image: "https://i.ibb.co/P5nW0cp/Regame5.png",
+            image: "https://i.ibb.co/Jcd8pK4/image.png",
         },
     ];
     return (

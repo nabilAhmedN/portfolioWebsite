@@ -8,10 +8,17 @@ import "swiper/css/pagination";
 
 const Project3 = () => {
     const images = [
-        { image: "https://i.ibb.co/7YpgRBn/image.png" },
-        { image: "https://i.ibb.co/JFybJDv/image.png" },
-        { image: "https://i.ibb.co/myFj5TF/image.png" },
-        { image: "https://i.ibb.co/7nLG9YH/image.png" },
+        { image: "https://i.ibb.co/drmmSh9/Regame1.png" },
+        { image: "https://i.ibb.co/7KFrbHh/Regame2.png" },
+        {
+            image: "https://i.ibb.co/GVh2qS7/Regame3.png",
+        },
+        {
+            image: "https://i.ibb.co/g4Szpjn/Regame4.png",
+        },
+        {
+            image: "https://i.ibb.co/P5nW0cp/Regame5.png",
+        },
     ];
     return (
         <section className="background-pattern bg-orange-50 h-full">
