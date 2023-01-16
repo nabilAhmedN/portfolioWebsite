@@ -35,7 +35,7 @@ const Projects = () => {
     return (
         <div
             name="project"
-            className="bg-orange-50 w-full text-black h-full -mt-2 pt-10 md:pt-5"
+            className="bg-orange-50 w-full text-black h-full -mt-2 pt-10 md:pt-14"
         >
             <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
                 <div className="pb-8">

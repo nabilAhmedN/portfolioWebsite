@@ -98,10 +98,11 @@ const Project3 = () => {
                     <div>DaisyUi</div>
                     <div>Firebase</div>
                     <div>Node.js</div>
+                    <div>JWT</div>
                     <div>MondoDb</div>
                     <div>Express.js</div>
                     <div> React Router Dom</div>
-                    <div>React-Toastify</div>
+                    <div>React Hot Toast</div>
                 </div>
             </div>
         </section>
